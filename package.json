@@ -1,5 +1,6 @@
-{
-	"name": "ml-for-beginners",
+[
+	
+ ]"name": "ml-for-beginners",
 	"version": "1.0.0",
 	"description": "Machine Learning for Beginners - A Curriculum",
 	"main": "index.js",
@@ -10,20 +11,16 @@
 		"type": "git",
 		"url": "git+https://github.com/microsoft/ML-For-Beginners.git"
 	},
-	"keywords": [
-		"machine",
-		"learning",
-		"ml",
-		"ai",
-		"curriculum"
+      "keywords": [
+      "machine",
+      "learning",
+       "ml",
+       "ai",
+       "curriculum"
 	],
-	"author": "Jen Looper and team",
+	"author": "Jen Looper and            team",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/microsoft/ML-For-Beginners/issues"
-	},
-	"homepage": "https://github.com/microsoft/ML-For-Beginners#readme",
-	"devDependencies": {
-		"docsify-to-pdf": "0.0.5"
-	}
-}
+	        },
+
